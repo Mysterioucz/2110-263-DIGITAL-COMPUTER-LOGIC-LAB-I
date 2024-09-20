@@ -131,7 +131,7 @@
           <string>Test Logic</string>
         </entry>
       </elementAttributes>
-      <pos x="360" y="120"/>
+      <pos x="380" y="-40"/>
     </visualElement>
     <visualElement>
       <elementName>Testcase</elementName>
@@ -141,7 +141,7 @@
           <string>Arith metic</string>
         </entry>
       </elementAttributes>
-      <pos x="360" y="200"/>
+      <pos x="380" y="40"/>
     </visualElement>
     <visualElement>
       <elementName>Testcase</elementName>
@@ -151,7 +151,7 @@
           <string>Test Logic</string>
         </entry>
       </elementAttributes>
-      <pos x="360" y="280"/>
+      <pos x="380" y="120"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -160,8 +160,8 @@
       <p2 x="100" y="80"/>
     </wire>
     <wire>
-      <p1 x="-380" y="240"/>
-      <p2 x="120" y="240"/>
+      <p1 x="-380" y="160"/>
+      <p2 x="120" y="160"/>
     </wire>
     <wire>
       <p1 x="-260" y="100"/>
@@ -225,11 +225,11 @@
     </wire>
     <wire>
       <p1 x="120" y="40"/>
-      <p2 x="120" y="240"/>
+      <p2 x="120" y="160"/>
     </wire>
     <wire>
       <p1 x="-380" y="-120"/>
-      <p2 x="-380" y="240"/>
+      <p2 x="-380" y="160"/>
     </wire>
     <wire>
       <p1 x="-140" y="-120"/>
